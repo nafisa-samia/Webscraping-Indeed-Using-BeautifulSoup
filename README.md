@@ -1,4 +1,4 @@
-# Webscraping-Indeed
+# Webscraping Indeed using Beautiful Soup
 Webscraping of job details for a particular position in London, UK from uk.indeed.com using Beautiful Soup.
 
 For a particular search criteria i.e. Position: Data Scientist and Location: London, we want to extract following job posting details from the job portal uk.indeed.com.
